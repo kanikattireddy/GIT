@@ -1,3 +1,4 @@
 Hi how are you 
  commit new changes 2
 branch2 data changed
+branch2 data has rechanged
